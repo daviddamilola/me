@@ -1,3 +1,4 @@
+/* eslint-disable import/extensions */
 import React from 'react';
 import { Section, SecondaryText, Text } from 'components/Styles';
 import { AboutWrapper } from './aboutStyles';
