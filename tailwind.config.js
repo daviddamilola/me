@@ -4,6 +4,12 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {},
+    colors: {
+      'darker': '#050F1E',
+      'dark': '#06152A',
+      'light': '#FFFFFF',
+      'orange': '#AA5110',
+    },
   },
   variants: {
     extend: {},
